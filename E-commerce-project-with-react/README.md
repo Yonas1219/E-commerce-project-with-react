@@ -1,0 +1,1 @@
+react mini project to sell phones online
